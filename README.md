@@ -12,7 +12,7 @@
 
 **All the following problems can be solved using a higher order array method. You cannot use .forEach() to solve the following problems.** 
 
-**Test all your solutions for questions 1-6 with the following variable:** 
+**Test all your solutions for questions 1-12 with the following variable:** 
 1. Write a function named `shortWords` that takes an array of strings return the strings with less than 5 letters
     
     ```jsx
